@@ -1,0 +1,1197 @@
+@media only screen and (max-width: 991px) {
+
+    .left-image-warp {
+        display: none;
+    }
+
+    .col-lg-6.mb-5.mb-lg-0.login {
+        width: 100%;
+    }
+
+    .px-4 {
+        padding-right: .50rem !important;
+        padding-left: .50rem !important;
+    }
+
+    .wrapper form {
+        padding: 10px 0px 0px 0px;
+    }
+
+    .strategy-box {
+        margin-left: 0;
+    }
+
+    .nav-open .show-menu,
+    .nav-open .hide-menu {
+        display: none;
+    }
+
+    .change_pass {
+        text-align: right;
+        padding-left: 0;
+        width: 106px;
+    }
+
+    .wrapper form#register {
+        padding: 2px 0px 0px 0px;
+    }
+
+    .mb-5 {
+        margin-bottom: 0rem !important;
+    }
+
+    .box-border {
+        height: 375px;
+    }
+
+    form .signup-link {
+        margin-top: 0;
+        font-size: 12px;
+        line-height: 11px;
+    }
+
+    form .signup-link a {
+        font-size: 13px;
+        line-height: 5px;
+    }
+
+    .quartile-bar1 {
+        width: 100%;
+    }
+
+    .bottom-text a {
+        font-size: 12px;
+    }
+
+    .wrapper.card .card-body {
+        padding: 30px 20px 20px;
+        max-height: fit-content;
+        min-height: auto;
+    }
+
+    .bottom-text {
+        padding-top: 30px;
+    }
+
+    .topInfo img {
+        padding-bottom: 25px;
+    }
+
+
+    .topInfo p {
+        line-height: 21px;
+        font-size: 11px;
+    }
+
+    .topInfo p strong {
+        font-size: 14px;
+    }
+
+    form .content {
+        font-size: 12px;
+        margin: 12px 0 0;
+    }
+
+    #forget_pass .topInfo p {
+        padding: 0 16px;
+        font-size: 14px;
+    }
+
+    #forget_pass .topInfo img {
+        padding-bottom: 30px;
+    }
+
+    .dashboard-page-content main {
+        margin-left: 0;
+        padding-left: 20px;
+        padding-right: 20px;
+        transition: .2s;
+    }
+
+    .nav-open .dashboard-page-content main {
+        margin-left: 165px;
+        transition: .2s;
+        transition: margin-left .2s;
+    }
+
+    .table-profile-sc table td {
+        font-size: 12px;
+        padding: 8px 11px 8px 18px;
+    }
+
+    .table-profile-sc table td:nth-child(odd) {
+        width: 130px;
+    }
+
+    .table-profile-sc table td a {
+        font-size: 11px;
+    }
+
+    .table-profile-sc .card {
+        margin-bottom: 20px;
+    }
+
+    section.dashboard-page-content .navbar-nav {
+        padding-right: 0px;
+        width: 100%;
+    }
+
+    section.dashboard-page-content .navbar-nav .nav-item {
+        justify-content: center;
+        gap: 0;
+    }
+
+    section.dashboard-page-content header .navbar-brand img {
+        width: 180px;
+        padding-left: 0px;
+    }
+
+    section.dashboard-page-content .navbar-nav .nav-item .nav-link img {
+        width: 17px;
+    }
+
+    section.dashboard-page-content .navbar-brand {
+        padding: 8px 0 0;
+    }
+
+    .sidebar {
+        top: 0rem;
+        /*max-width: 0;*/
+        width: 0;
+        /* opacity: 0; */
+        /* visibility: hidden; */
+        /* transition: .5s; */
+        top: 0;
+        left: 0;
+        overflow-x: hidden;
+        transition: .2s;
+    }
+
+    .nav-open .sidebar {
+        width: 175px;
+        transition: .2s;
+    }
+
+    .sidebar .nav-link {
+        font-size: 11px;
+    }
+
+    .sidebar .nav-link img {
+        width: 20px;
+    }
+
+    .box-border {
+        height: 400px;
+        text-align: left;
+    }
+
+    .wrapper form#change_pass {
+        padding: 0 0px 0px 0px;
+    }
+
+    .price-content-boxs a {
+        flex: 0 0 100%;
+        height: auto;
+        padding: 53px 25px 50px;
+    }
+
+    .price-content-boxs a .item .namber {
+        padding: 11px 22px;
+    }
+
+    .price-content-boxs a .details h3 {
+        font-size: 18px;
+    }
+
+    .fa-exclamation-circle-icon:before {
+        content: url('../img/invalid_icon_mobile.png');
+    }
+
+    .invalid-feedback>i {
+        right: -16px;
+    }
+
+    .invalid-feedback {
+        text-align: left;
+    }
+
+    .was-validated.form .content {
+        padding-top: 14px;
+    }
+
+    div#banner-body.priceing-details::before {
+        background-size: 225px;
+    }
+
+    .shape-icon-cover img {
+        width: 50px;
+    }
+
+    .shape-icon-cover {
+        padding: 20px 30px;
+    }
+
+    .warper-priceing-details {
+        margin-top: 90px;
+    }
+
+    .page-title-content h2 {
+        font-size: 23px;
+        line-height: 40px;
+        padding-bottom: 0;
+    }
+
+    .page-title-content p {
+        font-size: 12px;
+        line-height: 17px;
+    }
+
+    .price-boxs {
+        padding: 0 0px;
+    }
+
+    .price-boxs .item {
+        margin-bottom: 20px;
+    }
+
+    .ntb-note {
+        padding-top: 0;
+    }
+
+    .t2card-box1 {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .t2card1 {
+        width: 100%;
+    }
+
+    .ntb-note ul li {
+        line-height: 22px;
+        padding-bottom: 15px;
+    }
+
+    .payment-card-img {
+        padding-left: 0;
+    }
+
+    .payment-histroy-sample {
+        gap: 100px;
+    }
+
+    .price-boxs.payments-page .col-lg-7 {
+        padding-left: 15px;
+    }
+
+    .payment-box {
+        margin-bottom: 30px;
+        padding: 21px 6px 0;
+    }
+
+    .card_img img {
+        width: 20px;
+    }
+
+    .payment-btn.custom-btn p {
+        font-size: 9px;
+        line-height: 13px;
+    }
+
+    .payment-btn.custom-btn p.font-bold {
+        font-size: 18px;
+    }
+
+    .inter-card-info .col-md-3 {
+        padding-left: 12px;
+    }
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .dashboard-page-content main {
+        margin-left: 124px;
+    }
+
+    .sidebar {
+        top: 0rem;
+        width: 135px;
+        overflow-x: visible;
+    }
+
+    .sidebar.intro .nav-item:nth-child(2) .nav-link img {
+        width: 20px;
+        padding-top: 10px;
+    }
+
+    section.dashboard-page-content .navbar-nav {
+        padding-right: 20px;
+    }
+
+    section.dashboard-page-content .navbar-nav .nav-item {
+        justify-content: end;
+    }
+
+    .col-lg-6.mb-5.mb-lg-0.login {
+        width: 75%;
+    }
+
+    .col-lg-6.mb-5.mb-lg-0 {
+        width: 100%;
+    }
+
+    .left-image-warp img {
+        width: 100%;
+    }
+
+    .price-content-boxs a {
+        flex: 0 0 48%;
+    }
+
+    .price-content-boxs a .details h3 {
+        font-size: 18px;
+    }
+
+    .fa-exclamation-circle-icon:before {
+        content: url('../img/invalid_icon.png');
+    }
+
+    .invalid-feedback>i {
+        right: -32px;
+    }
+
+    .payment-histroy-sample {
+        gap: 300px;
+    }
+
+
+}
+
+@media only screen and (min-width: 1200px) {
+
+    #crossfade {
+        display: block !important;
+    }
+
+    .col-lg-6.mb-5.mb-lg-0 {
+        width: 43% !important;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .innertab2-row {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .innert2card1 {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1249px) {
+
+    .dashboard-page-content main {
+        margin-left: 185px;
+    }
+
+    .sidebar {
+        max-width: 200px;
+    }
+
+    .sidebar.intro .nav-item:nth-child(2) .nav-link img {
+        width: 20px;
+        padding-top: 10px;
+    }
+
+    .sidebar .nav-link {
+        font-size: 11px;
+    }
+
+    .sidebar .nav-link img {
+        width: 20px;
+    }
+
+    .table-responsive {
+        height: 150px;
+        min-height: 150px;
+    }
+
+    .table-profile-sc table td {
+        font-weight: 400;
+        font-size: 12px;
+        padding: 10px 20px 10px 23px;
+    }
+
+    .table-profile-sc table td a {
+        font-size: 11px;
+    }
+
+    .table-profile-sc table thead th {
+        font-weight: 600;
+        font-size: 11px;
+        line-height: 17px;
+        padding: 0.7rem 0rem;
+    }
+
+    .col-lg-6.mb-5.mb-lg-0.login {
+        width: 50%;
+    }
+
+    .left-image-warp {
+        display: block;
+    }
+
+    .col-lg-6.mb-5.mb-lg-0 {
+        width: 100%;
+    }
+
+    .left-image-warp img {
+        width: 100%;
+    }
+
+    .bottom-text a {
+        font-size: 15px;
+    }
+
+    form .content label {
+        font-size: 14px;
+    }
+
+    .px-md-5 {
+        padding-right: 1rem !important;
+        padding-left: 1rem !important;
+    }
+
+    .price-content-boxs a .details h3 {
+        font-size: 18px;
+    }
+
+    .back-page-icon {
+        /*bottom: -124px;*/
+    }
+
+    .table-profile-sc table td:nth-child(odd) {
+        width: 150px;
+    }
+
+    div#banner-body.priceing-details::before {
+        background-size: 260px;
+    }
+
+    .shape-icon-cover img {
+        width: 50px;
+    }
+
+    .shape-icon-cover {
+        padding: 30px 40px;
+    }
+
+    .page-title-content h2 {
+        font-size: 30px;
+        line-height: 45px;
+        padding-bottom: 0;
+    }
+
+    .warper-priceing-details {
+        margin-top: 0;
+    }
+
+    .warper-priceing-details .logo img {
+        width: 150px;
+    }
+
+    .page-title-content p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 20px;
+    }
+
+    .price-boxs {
+        padding: 0 0;
+    }
+
+    .price-boxs .item {
+        height: 180px;
+        padding: 13px 22px;
+    }
+
+    .price-boxs .item .rate-dollar {
+        font-size: 30px;
+        line-height: 40px;
+        padding-bottom: 20px;
+    }
+
+    .price-boxs .item span#top-date {
+        font-size: 16px;
+        line-height: 18px;
+        padding-bottom: 13px;
+        margin-bottom: 12px;
+    }
+
+    .price-boxs .item .btn-plan a {
+        font-size: 13px;
+        padding: 6px 15px;
+    }
+
+    .ntb-note {
+        padding-top: 18px;
+    }
+
+    .ntb-note ul li {
+        line-height: 29px;
+    }
+
+    .price-content-boxs a {
+        height: 275px;
+    }
+
+    .price-content-boxs a .item .namber {
+        padding: 16px 24px;
+    }
+
+    .payment-btn.custom-btn p {
+        font-size: 10px;
+        line-height: 15px;
+    }
+
+    .payment-box {
+        min-height: 553px;
+    }
+
+    #crossfade {
+        display: none;
+    }
+
+
+}
+
+
+@media only screen and (min-width: 1500px) and (max-width: 1599px) {
+
+    .price-content-boxs a {
+        height: 266px;
+        padding: 56px 25px 88px;
+    }
+
+    .price-content-boxs a .item .namber {
+        padding: 16px 35px;
+    }
+
+    #banner-body.priceing {
+        align-items: center;
+    }
+
+    .priceing-warper-sc .logo {
+        position: absolute;
+        top: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .price-content-boxs {
+        padding-top: 88px;
+    }
+
+    .page-title-content h2 {
+        font-size: 39px;
+        line-height: 40px;
+    }
+
+    .warper-priceing-details {
+        margin-top: 0;
+    }
+
+    .page-title-content p {
+        margin-bottom: 16px;
+    }
+
+    .ntb-note {
+        padding-top: 26px;
+    }
+
+    div#banner-body.priceing-details::before {
+        background-size: 25%;
+    }
+
+    .shape-icon-cover {
+        padding: 36px 60px;
+    }
+
+    .payment-box {
+        min-height: 468px;
+    }
+
+    .payment-btn.custom-btn {
+        padding: 8px 15px 6px;
+        min-height: 83px;
+        margin-bottom: 15px;
+    }
+
+    .button-upgrade {
+        bottom: 20px;
+        z-index: -1;
+    }
+
+    .payment-box.btn.intro {
+        min-height: 490px;
+    }
+
+    .wrapper.card .card-body {
+        min-height: 619px;
+    }
+
+    #crossfade>img {
+        top: 13px;
+        height: 240px;
+    }
+
+    .bottom-text {
+        padding-top: 48px;
+    }
+
+    .col-lg-6.mb-5.mb-lg-0.login {
+        width: 42%;
+    }
+
+    form .content label {
+        font-size: 14px;
+    }
+
+    form .signup-link {
+        margin-top: 0;
+    }
+
+    .wrapper form .field {
+        height: 50px;
+        margin-top: 17px;
+    }
+
+    #forget_pass .topInfo img {
+        padding-bottom: 130px;
+    }
+
+    .wrapper form#forget {
+        padding-bottom: 150px;
+    }
+
+    .box-border {
+        height: 465px;
+    }
+
+
+}
+
+@media only screen and (min-width: 1250px) and (max-width: 1466px) {
+
+    .warper-priceing-details {
+        margin-top: 0;
+    }
+
+    .page-title-content h2 {
+        font-size: 36px;
+        line-height: 33px;
+        padding-bottom: 10px;
+    }
+
+    .warper-priceing-details .logo img {
+        width: 170px;
+    }
+
+    .page-title-content p {
+        font-size: 15px;
+        line-height: 19px;
+        margin-bottom: 16px;
+    }
+
+    .price-boxs .item .rate-dollar {
+        font-size: 32px;
+        line-height: 50px;
+        padding-bottom: 13px;
+    }
+
+    .price-boxs .item {
+        height: 190px;
+        padding: 16px 18px;
+    }
+
+    div#banner-body.priceing-details::before {
+        background-size: 23%;
+    }
+
+    .shape-icon-cover img {
+        width: 60px;
+    }
+
+    .shape-icon-cover {
+        padding: 35px 55px;
+    }
+
+    .ntb-note {
+        padding-top: 15px;
+    }
+
+    .ntb-note ul li {
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .price-boxs {
+        padding: 0 66px;
+    }
+
+    div#banner-body.priceing-details {
+        padding-top: 16px !important;
+    }
+
+    .price-boxs .item .btn-plan a {
+        font-size: 13px;
+        padding: 7px 12px;
+    }
+
+    .payment-btn.custom-btn p.font-bold {
+        font-size: 17px;
+        line-height: 19px;
+    }
+
+    .payment-btn.custom-btn p {
+        font-size: 11px;
+        line-height: 13px;
+    }
+
+    .payment-btn.custom-btn {
+        padding: 9px 12px 9px;
+        margin-bottom: 14px;
+        min-height: 81px;
+    }
+
+    .payment-btn.custom-btn img {
+        width: 175px;
+    }
+
+    .payment-box {
+        min-height: 400px;
+    }
+
+    .wrapper.card .card-body {
+        padding: 20px 0 20px;
+        max-height: 100%;
+        min-height: 100%;
+    }
+
+    .topInfo img {
+        padding-bottom: 20px;
+        width: 200px;
+    }
+
+    .wrapper form {
+        padding: 5px 18px 0px 18px;
+    }
+
+    .bottom-text a {
+        font-size: 15px;
+    }
+
+    #crossfade {
+        height: 360px;
+        margin-top: 17px;
+    }
+
+    #crossfade>img {
+        height: 240px;
+        top: 14px;
+    }
+
+    .col-lg-6.mb-5.mb-lg-0.login {
+        width: 43%;
+    }
+
+    .bottom-text {
+        padding-top: 38px;
+    }
+
+    .topInfo p {
+        font-size: 14px;
+    }
+
+    .topInfo p strong {
+        font-size: 17px;
+    }
+
+    .wrapper form .field {
+        height: 45px;
+        margin-top: 13px;
+    }
+
+    form .signup-link {
+        margin-top: 6px;
+        line-height: 22px;
+    }
+
+    form .content label {
+        flex: 0 0 96%;
+    }
+
+    .box-border {
+        height: 415px;
+    }
+
+    #forget_pass .topInfo img {
+        padding-bottom: 125px;
+    }
+
+    .wrapper form#forget {
+        padding-bottom: 160px;
+    }
+
+    .priceing-warper-sc .topInfo img {
+        padding-bottom: 11px;
+    }
+
+    #banner-body.priceing {
+        padding-top: 18px !important;
+        align-items: center;
+    }
+
+    .priceing-warper-sc .logo {
+        position: absolute;
+        top: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .price-content-boxs {
+        padding-top: 90px;
+    }
+
+    .price-content-boxs a .item .namber {
+        font-size: 26px;
+        line-height: 13px;
+    }
+
+    .price-content-boxs a {
+        height: 236px;
+        padding: 53px 25px 100px;
+    }
+
+    .price-content-boxs a .item .icon img {
+        width: 40px;
+    }
+
+    .wrapper.card {
+        min-height: 500px;
+    }
+
+    .send-forget img {
+        width: 40px;
+    }
+
+    .button-upgrade {
+        bottom: 20px;
+        z-index: -1;
+    }
+
+    .payment-box.btn.intro {
+        min-height: 490px;
+    }
+
+
+}
+
+@media only screen and (min-width: 1251px) and (max-width: 1400px) {
+    #tab1-2bottom .table-responsive {
+        height: 160px;
+    }
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1700px) {
+    #tab1-2bottom .table-responsive {
+        height: 200px;
+    }
+}
+
+@media only screen and (max-width: 1399px) {
+    .table-responsive {
+        height: 300px;
+    }
+}
+
+@media only screen and (min-width: 1351px) and (max-width: 1399px) {
+
+    .dashboard-page-content main {
+        margin-left: 219px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .sidebar {
+        max-width: 230px;
+    }
+
+    .sidebar .nav-link {
+        font-size: 13px;
+    }
+
+    .sidebar .nav-link img {
+        width: 35px;
+    }
+
+    .table-profile-sc table td {
+        padding: 10px 20px 10px 23px;
+    }
+
+    .table-profile-sc table td a {
+        font-size: 11px;
+    }
+
+    .table-profile-sc table thead th {
+        font-size: 13px;
+        font-weight: 600;
+    }
+
+    .left-image-warp {
+        display: block;
+    }
+
+    .col-lg-6.mb-5.mb-lg-0 {
+        /*width: 50%;*/
+    }
+
+    .left-image-warp img {
+        width: 100%;
+    }
+
+    .bottom-text a {
+        font-size: 15px;
+    }
+
+    form .content label {
+        font-size: 13px;
+    }
+
+    .px-md-5 {
+        padding-right: 2rem !important;
+        padding-left: 2rem !important;
+    }
+
+    .price-content-boxs a .details h3 {
+        font-size: 20px;
+    }
+
+
+}
+
+@media only screen and (max-width: 1885px) {
+    .filter-input-box {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1351px) {
+    .t2card-box1 {
+        flex-wrap: wrap;
+    }
+
+    .t2card1 {
+        width: 100%;
+    }
+
+    .plirows {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .first-boxPLI {
+        width: 70%;
+        margin-bottom: 20px;
+    }
+
+    .second-boxPLI {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1111px) {
+
+    .inner-report-box,
+    .bottom-report-box {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .report-row-box,
+    .selected-parts-box,
+    .companies-names-box,
+    .ebit-distribution-section {
+        width: 100%;
+    }
+
+    .ebit-distribution-section {
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .symbol-text {
+        width: 100%;
+        text-align: center;
+    }
+
+    .stake-box {
+        width: 30%;
+    }
+
+    .indicator-row1 {
+        width: 30%;
+    }
+
+    .stake-box-inner {
+        width: 60%;
+    }
+
+    .indicator-description {
+        width: 70%;
+        padding-left: 10px;
+    }
+
+    .filter-input-box {
+        width: 100%;
+    }
+
+    .side-toggle-box {
+        position: initial;
+    }
+}
+
+@media only screen and (max-width: 840px) {
+    .record-index {
+        position: initial;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .show-added-filters select,
+    .show-added-filters option {
+        width: 130px;
+    }
+
+    .tab2Schilds {
+        padding: 0 25px;
+    }
+
+    .tab2Schilds p {
+        white-space: nowrap;
+    }
+}
+
+@media only screen and (max-width: 680px) {
+    .tab-2body {
+        padding-right: 20px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+
+    .first-boxPLI {
+        width: 90%;
+    }
+
+    .table-profile-sc table td:nth-child(odd) {
+        width: 40px;
+    }
+
+    .lower-pop-body input[type="text"] {
+        width: 150px;
+    }
+
+    .p-body-child1 {
+        width: 120px;
+    }
+
+    .add-note-box {
+        width: 90%;
+        /* top: 70%; */
+    }
+
+    .ownership-row1 select {
+        margin-left: 0;
+        width: 120px;
+    }
+
+    .amount-select {
+        margin-right: 0;
+    }
+}
+
+@media only screen and (max-width: 440px) {
+    .show-added-filters .row>* {
+        padding: 0;
+    }
+
+    .filter-input-box {
+        padding: 0;
+    }
+
+    .financials-Select {
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .inner-header-box {
+        flex-direction: column;
+    }
+
+    .accordion-body .select-checkboxs-area .input-group {
+        flex: 0 0 100%;
+    }
+}
+
+@media only screen and (max-width: 410px) {
+    #main {
+        margin: 0;
+        padding: 0 1px;
+        padding-top: 10px;
+    }
+
+    #manaul-acceptence {
+        padding: 0;
+        margin: 0;
+    }
+
+    .manual-outer-row {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+
+@media only screen and (min-width: 991px) {
+    .tab2Schilds {
+        padding: 0 25px;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+    .tab2switch-row {
+        width: 560px;
+    }
+
+    .ctc-table-row {
+        width: 500px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 870px) {
+    .head-commitee-row {
+        width: 200px;
+    }
+}
